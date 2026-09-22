@@ -11,3 +11,7 @@ git commit -m "Update README"
 ## Git Practice
 
 I am learning branches with Git.
+## Git Practice
+
+I am learning branches with Git.
+
