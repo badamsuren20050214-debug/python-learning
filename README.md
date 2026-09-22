@@ -8,3 +8,6 @@ git commit -m "Add student information"
 git commit -m "Fix login page"
 git commit -m "Add database connection"
 git commit -m "Update README"
+## Git Practice
+
+I am learning branches with Git.
